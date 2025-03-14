@@ -1,4 +1,4 @@
-# Test3-React-Flask-FC
+# Test3-React-Flask-FC-Backend
 Test 3: Develop an API with Flask and Integrate It with React
 Objective: Build a REST API using Flask (Python) and consume it in a React application. Requirements:
 The API should return product data in JSON format.
